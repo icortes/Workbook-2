@@ -2,3 +2,11 @@ body {
     background-color: #4a154b;
     color: white;
 }
+
+.navbar-nav .nav-link{
+    color: #cb2929 !important;
+  }
+
+.navbar-brand {
+  color: rgb(255, 31, 188);
+}
